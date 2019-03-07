@@ -1,0 +1,11 @@
+/Users/Blade/Desktop/backend-workspace/employee-at-company/bin/Debug/netcoreapp2.2/employee-at-company.deps.json
+/Users/Blade/Desktop/backend-workspace/employee-at-company/bin/Debug/netcoreapp2.2/employee-at-company.runtimeconfig.json
+/Users/Blade/Desktop/backend-workspace/employee-at-company/bin/Debug/netcoreapp2.2/employee-at-company.runtimeconfig.dev.json
+/Users/Blade/Desktop/backend-workspace/employee-at-company/bin/Debug/netcoreapp2.2/employee-at-company.dll
+/Users/Blade/Desktop/backend-workspace/employee-at-company/bin/Debug/netcoreapp2.2/employee-at-company.pdb
+/Users/Blade/Desktop/backend-workspace/employee-at-company/obj/Debug/netcoreapp2.2/employee-at-company.csprojAssemblyReference.cache
+/Users/Blade/Desktop/backend-workspace/employee-at-company/obj/Debug/netcoreapp2.2/employee-at-company.csproj.CoreCompileInputs.cache
+/Users/Blade/Desktop/backend-workspace/employee-at-company/obj/Debug/netcoreapp2.2/employee-at-company.AssemblyInfoInputs.cache
+/Users/Blade/Desktop/backend-workspace/employee-at-company/obj/Debug/netcoreapp2.2/employee-at-company.AssemblyInfo.cs
+/Users/Blade/Desktop/backend-workspace/employee-at-company/obj/Debug/netcoreapp2.2/employee-at-company.dll
+/Users/Blade/Desktop/backend-workspace/employee-at-company/obj/Debug/netcoreapp2.2/employee-at-company.pdb
